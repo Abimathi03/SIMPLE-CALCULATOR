@@ -1,13 +1,10 @@
-🧮 Simple Calculator
+# 🧮 Simple Calculator
 
-   A basic calculator application that allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division. This project serves as a beginner-friendly way to learn about handling user input, performing calculations, and building user interfaces (CLI, GUI, or web-based).
+A simple calculator application that supports basic arithmetic operations such as addition, subtraction, multiplication, and division. This project is ideal for those who want to understand the fundamentals of building a simple application and practice their coding skills.
 
-✅ Features
+## 🛠️ Features
 
-1) Basic Operations: Addition, Subtraction, Multiplication, Division.
-
-2) Clear functionality: Allows users to clear input or results.
-
-3) Error handling: Provides clear messages for invalid inputs like division by zero.
-
-4) User-friendly interface: Depending on your implementation, this could be a clean CLI or an interactive GUI.
+- **Basic Operations**: Perform basic arithmetic calculations — addition, subtraction, multiplication, and division.
+- **Clear Display**: Shows real-time input and output with a simple and clean interface.
+- **Error Handling**: Handles division by zero and invalid inputs gracefully.
+- **Responsive Interface**: (Optional) Desktop/CLI or mobile-friendly, depending on the platform.
